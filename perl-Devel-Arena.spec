@@ -11,7 +11,6 @@ License:	GPL or Artistic
 Group:		Development/Perl
 Source0:	http://mir2.ovh.net/ftp.cpan.org/authors/id/N/NW/NWCLARK/%{module}-%{version}.tar.bz2
 Url:		http://search.cpan.org/dist/%{module}
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel
 
 %description
