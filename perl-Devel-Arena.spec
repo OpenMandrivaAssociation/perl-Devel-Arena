@@ -1,7 +1,7 @@
 %define module	Devel-Arena
 %define name	perl-%{module}
 %define version	0.23
-%define	release	%mkrel 6
+%define	release	%mkrel 7
 
 Name:		%{name}
 Version:	%{version}
