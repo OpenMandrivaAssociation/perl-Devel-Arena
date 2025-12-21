@@ -12,6 +12,7 @@ Group:		Development/Perl
 Source0:	http://mir2.ovh.net/ftp.cpan.org/authors/id/N/NW/NWCLARK/%{module}-%{version}.tar.bz2
 Url:		https://search.cpan.org/dist/%{module}
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires:	perl-devel
 
 %description
